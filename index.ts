@@ -1,3 +1,11 @@
+/**
+ * Value transformation
+ * From [[{file}, {file}], [{file}, {file}]]
+ * To [{folder1: [{file}, {file}]}, {folder2: [{file},{file}]}]
+ */
+
+
+
 import _ from 'lodash';
 import data from './data';
 
